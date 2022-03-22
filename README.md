@@ -35,7 +35,7 @@ In progress, check back soon!
 ## Usage
 
 ```bash
-$ colorstorm [-o outdir] [-g generator] input
+$ colorstorm input [-o outdir] [-g generator]
 
 -o|--outdir: The directory to output themes to (default: "./colorstorm-out")
 -g|--gen:    Generator type (default: all)
